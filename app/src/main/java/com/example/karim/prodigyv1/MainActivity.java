@@ -17,8 +17,10 @@ public class MainActivity extends AppCompatActivity {
         btn_log_in.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent intent=new Intent(MainActivity.this,chose_charchter_layout.class);
-                MainActivity.this.startActivity(intent);
+               // Intent intent=new Intent(MainActivity.this,chose_charchter_layout.class);
+                Intent intent1=new Intent(MainActivity.this,map_home_layout.class);
+              // Intent intent2=new Intent(MainActivity.this,.class);
+                MainActivity.this.startActivity(intent1);
             }
         });
     }
