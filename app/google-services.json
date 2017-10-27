@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6374401835",
+    "firebase_url": "https://prodigy-68c3e.firebaseio.com",
+    "project_id": "prodigy-68c3e",
+    "storage_bucket": "prodigy-68c3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6374401835:android:d983a9576cb4de2e",
+        "android_client_info": {
+          "package_name": "com.example.karim.prodigyv1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6374401835-dss9jsarn6df2qvale7igvvanvifvtvv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karim.prodigyv1",
+            "certificate_hash": "dfcd32bc84efdf7672ebdae0b3dbfd90b57e705d"
+          }
+        },
+        {
+          "client_id": "6374401835-ige8pqin05768u7ba3hf418r2dfppner.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9f0dJLT-GeHrrs3zXEiLIhg_Z_2zz5EU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6374401835-ige8pqin05768u7ba3hf418r2dfppner.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

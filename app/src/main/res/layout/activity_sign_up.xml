@@ -186,13 +186,14 @@
             android:layout_marginLeft="20dp"
             android:id="@+id/img_view_google"/>
 
+        <!--
         <com.facebook.login.widget.LoginButton
             android:id="@+id/logi_button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_centerInParent="true"
             />
-
+-->
 
 
     </LinearLayout>
